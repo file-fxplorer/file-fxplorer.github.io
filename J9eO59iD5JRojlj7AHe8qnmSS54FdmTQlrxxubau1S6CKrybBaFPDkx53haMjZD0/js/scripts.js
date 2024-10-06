@@ -17,7 +17,7 @@ $(window).load(function() {
  Nice scroll
  ----------------------------------------------------------------------
  */
-$("html").niceScroll({
+$("html")。niceScroll({
 	cursorcolor: '#fff',
 	cursoropacitymin: '0',
 	cursoropacitymax: '1',
